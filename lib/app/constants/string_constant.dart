@@ -1,0 +1,211 @@
+class StringConstant {
+  static const String skip = "Skip";
+  static const String onboardingHeading1 =
+      "Lorem ipsum dolor sit amet consectetur.";
+  static const String onboardingSubHeading1 =
+      "Torem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis.";
+  static const String next = "Next";
+  static const String createAccount = "Create an account";
+  static const String enterYourDetails = "Enter your details ";
+  static const String emailId = "Email Id";
+  static const String enterEmailId = "Enter email id";
+  static const String password = "Password";
+  static const String enterPassword = "Enter password here";
+  static const String signup = "Sign Up";
+  static const String orsignupWith = "Or  sign up  with";
+  static const String alreadyHaveAcount = "Already have an account ? ";
+  static const String login = "Login";
+  static const String termsAndcons1 = "By continuing, you agree to our ";
+  static const String termsCons2 = "Terms and Conditions";
+  static const String and = " and";
+  static const String privacyPolicy = "Privacy Policy";
+  static const String contentPolicy = " Content Policy";
+  static const String verify = "Verify";
+  static const String verifyYourAccount = "Verify your account";
+  static const String letsGetStarted = "Let’s Get Started !";
+
+  static const String verificationCodeSent =
+      "We have sent a verification link on your\nemail id";
+  static const String didntGetCode = "Didn’t get the link? ";
+  static const String resend = "Resend";
+  static const String enterYourLoginDetails = "Enter your login details ";
+  static const String forgotPassword = "Forgot Password ?";
+  static const String dontHaveAccount = "Don’t have an account?";
+  static const String woohoo = "Woohoo !";
+  static const String registrationComplete =
+      "Registration is successful!\nPlease continue to your profile.";
+  static const String continuee = "Continue";
+  static const String profileSetup = "Profile Setup";
+  static const String enterProfileDetails = "Enter your profile details";
+  static const String takeOrUploadPhoto = "Take or upload profile photo";
+  static const String fullName = "Full Name";
+  static const String enterNameHere = "Enter name hare";
+  static const String phoneNumber = "Phone Number";
+  static const String enterPhoneNumber = "Enter Phone Number";
+  static const String gender = "Gender";
+  static const String selectGender = "Select Gender";
+  static const String male = "Male";
+  static const String female = "Female";
+  static const String others = "Prefer not to say";
+  static const String age = "Age";
+  static const String selectAge = "Select age";
+  static const String address = "Address";
+  static const String enterAddress = "Enter address here";
+  static const String city = "City";
+  static const String enterCity = "Enter City here";
+  static const String proceed = "Proceed";
+  static const String changePassword = "Change Password";
+  static const String enterNewPassword = "Enter new password";
+  static const String newPassword = "New Password";
+  static const String reEnterNewPassword = "Re-enter New Password";
+  static const String passwordChanged = "Password changed !";
+  static const String passwordChangeComplete =
+      "Password changed successfully !";
+  static const String verifyAccount = "Verify Account";
+  static const verifyAccountText =
+      "We will send a verification link to your\nregistered email id";
+  static const String enableLocation = "Enable Location";
+  static const String enableLocationText =
+      "Enable notification to easily search\nrestaurants search near you.";
+  static const String allowAccess = "Allow Access";
+  static const String setPreferences = "Set Preferences";
+  static const String location = "Location";
+  static const String houseNo = "House No.";
+  static const String street = "Street";
+  static const String postalCode = "Postal Code";
+  static const String state = "State";
+  static const String country = "Country";
+
+  //home screen
+
+  static const String welcome = "Welcome";
+  static const String homeSearch = "Search...";
+  static const String all = "All";
+  static const String dealsOfTheDay = "Deals of the day";
+  static const String exploreCuisines = "Explore Cuisines";
+  static const String restaurantsNearYou = "Restaurants near you";
+  static const String loyaltyCards = "Loyalty Cards";
+  static const String off = "% off";
+  static const String cardOff = "% card offer";
+  static const String addCard = "Add Card";
+  static const String notifications = "Notifications";
+  static const String search = "Search";
+  static const String recentSeraches = "Recent searches";
+  static const String filters = "Filters";
+  static const String vegNonvegPreference = "Veg/Non-Veg Preference";
+  static const String vegetarians = "Vegetarians";
+  static const String vegetarian = "Vegetarian";
+  static const String nonVegetarians = "Non-Vegetarians";
+  static const String nonVegetarian = "Non-Vegetarian";
+  static const String egg = "Egg";
+  static const String dietaryRestrictions = "Dietary Restrictions";
+  static const String distancePreference = "Distance Preference";
+  static const String rating = "Rating";
+  static const String price = "Price";
+  static const String pound = "£";
+  static const String clearAll = "Clear All";
+  static const String apply = "Apply";
+  static const String selectLocation = "Select Location";
+  static const String locationHintText = "Type your location, landmark...";
+  static const String or = "Or";
+  static const String useMyCurrentLocation = "Use my current location";
+  static const String recentLocations = "Recent Locations";
+  static const String loyaltyAddedMessage =
+      "Loyalty card added successfully! You can\nview your cards under “Loyalty Cards”\nsection.";
+  static const String allPhotos = "All Photos";
+  static const String aboutUs = "About Us";
+  static const String seeMore = "See more";
+  static const String overview = "Overview";
+  static const String menu = "Menu";
+  static const String jobs = "Jods";
+  static const String vipOffers = "VIP Offers";
+  static const String ratingAndReview = "Rating & Reviews";
+  static const String rateAndReview = "Rate and Review";
+  static const String timings = "Timings";
+  static const String open = "Open";
+  static const String features = "Features";
+  static const String couponDetails = "Coupon Details";
+  static const String termsAndConditions = "Terms & Conditions";
+  static const String shareExprience = "Share your experience with others";
+  static const String shareMoreExp = "Share more about your experience.";
+  static const String enterTextHere = "Enter text here";
+  static const String reviews = "Reviews";
+  static const String viewDetails = "View Details";
+  static const String jobDetails = "Job Details";
+  static const String description = "Description";
+  static const String seeAllPhotos = "All Photos and Videos";
+  static const String onboardingHeading2 = "Share and Vote With Your\nFriends";
+  static const String onboardingSubHeading2 =
+      "Create a group chat and share places you are interested in. Swipe to vote as a group to make deciding on a place to eat that much easier.";
+  static const String onboardingHeading3 = "Unlock VIP Benefits";
+  static const String onboardingSubHeading3 =
+      "Add to get up to 25% discount at your\nfavorite places.";
+  static const String onboardingHeading4 = "Redeem Loyalty Awards";
+  static const String onboardingSubHeading4 =
+      "Collect stamp at your favorite food places\nand redeem awards.";
+
+  static const String getStartedHeading = "Let's Eat & Save!";
+  static const String categories = "Categories";
+  static const String featuredOffers = "Featured Offers";
+  static const String addToCart = "Add to Cart";
+  static const String exclusiveOffers = "Exclusive Offers";
+  static const String dealsnearyou = "Deals near you";
+  static const String cuponAdded = "Coupon added to cart successfully!";
+  static const String addToCartTitle = "Added to Cart !";
+  static const String home = "Home";
+  static const String coupons = "Coupons";
+  static const String challenges = "Challenges";
+  static const String favorites = "Favorites";
+  static const String profile = "Profile";
+  static const String couponsAvailable = "Coupons Available";
+  static const String submit = "Submit";
+  static const String cart = "Cart";
+  static const String paymentMethod = "Payment method";
+  static const String razorpay = "Razorpay";
+  static const String change = "Change";
+  static const String rewardsPoints = "Rewards Points";
+  static const String billingDetails = "Billing Details";
+  static const String totalItems = "Total Items";
+  static const String totalAmount = "Total Amount";
+  static const String totalpayable = "Total payable";
+  static const String pay = "Pay";
+  static const String congratulations = "Congratulations!";
+  static const String couponsPurchaseduccessfully =
+      "Coupons purchased successfully !";
+  static const String userDetails = "User Details";
+  // static const String changePassword = "Change Password";
+  // static const String rewardsPoints = "Rewards Points";
+  static const String purchaseHistory = "Purchase History";
+  static const String referAFriend = "Refer a friend";
+  static const String helpAndSupport = "Help & Support";
+  // static const String termsAndConditions = "Terms & Conditions";
+  static const String logout = "Logout";
+  static const String deleteAccount = "Delete Account";
+  static const String save = "Save";
+  static const String editProfile = "Edit Profile";
+  static const String oldPassword = "Old Password";
+  static const String confirmPassword = "Confirm Password";
+  static const String no = "No";
+  static const String yes = "Yes";
+  static const String confirmLogout = "Confirm Logout";
+  static const String confirmLogoutSub = "Are you sure you want to logout ?";
+  static const String confirmDelete = "Confirm Delete";
+  static const String confirmDeleteSub = "Are you sure you want to Delete ?";
+  static const String howCanWeHelpYou = "How can we help you ?";
+  static const String faqs = "FAQ’s";
+  static const String totalRewardPoints = "Total Reward Points";
+  static const String earned = "Earned";
+  static const String used = "Used";
+  static const String offers = "Offers";
+  static const String vendors = "Vendors";
+  static const String myCoupons = "My Coupons";
+  static const String availableCoupons = "Available Coupons";
+  static const String redeemedCoupons = "Redeemed Coupons";
+  static const String searchCoupo = "Search “Coupon”";
+  static const String copy = "Copy";
+  static const String provdeTheLoyaltyQr = "Provide the Loyalty QR Code";
+  static const String scanQrCode = "Scan QR Code";
+  static const String provideTheLoyaltySub =
+      "Provide the loyalty QR code to avail the loyalty\npoint to the restaurant representative.";
+  static const String couponCode = "Coupon Code";
+}
